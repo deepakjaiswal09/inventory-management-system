@@ -103,10 +103,13 @@ A full-stack inventory management solution with MySQL database and responsive we
 3. Submit pull requests
 4. Follow consistent coding style
 
-## 📜 License
-MIT License - Open source
+## 👨‍💻 Author
 
-## 📬 Contact
-Project Maintainer - https://github.com/kaustubhk134 - kulurkarkaustubh134@gmail.com.com
+This project is a group assignment allocated by the department as part of the Database Management System course. I have contributed as an active member of the team, participating in the design, development, and implementation phases.
+**Deepak Jaiswal**
 
-Project Link: https://github.com/kaustubhk134/Inventory_Management_System.git
+- 🔗 GitHub: [github.com/deepakjaiswal09](https://github.com/deepakjaiswal09)  
+- 💼 LinkedIn: [linkedin.com/in/deepakjaiswal09](https://linkedin.com/in/deepakjaiswal09)  
+- 📧 Email: deepakjaiswal9238@gmail.com
+---
+*Feel free to connect with me for collaboration, feedback, or opportunities!*
