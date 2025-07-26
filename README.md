@@ -106,6 +106,7 @@ A full-stack inventory management solution with MySQL database and responsive we
 ## 👨‍💻 Author
 
 This project is a group assignment allocated by the department as part of the Database Management System course. I have contributed as an active member of the team, participating in the design, development, and implementation phases.
+
 **Deepak Jaiswal**
 
 - 🔗 GitHub: [github.com/deepakjaiswal09](https://github.com/deepakjaiswal09)  
